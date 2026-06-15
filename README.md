@@ -2,12 +2,12 @@
 Projeto A3 Rover
 
 como rodar
->> executar src/br.com.a3.rover/programaRoover.java.
+ executar src/br.com.a3.rover/programaRoover.java.
 
-comandos aceitos
->> AVANCAR n
->> RECUAR n
->> ESQUERDA
->> DIREITA
->> DETECTAR
->> FIM
+comandos aceitos<br>
+ AVANCAR n <br>
+ RECUAR n<br>
+ ESQUERDA<br>
+ DIREITA<br>
+ DETECTAR<br>
+ FIM
